@@ -13,3 +13,5 @@ In this developer walkthrough, we will utilize this cutting edge AI tool to pull
 The weights, model card and code for the Stable Diffusion model can be viewed here:  https://huggingface.co/CompVis/stable-diffusion.
 
 This code will walk you through the process of interacting with stable diffusion and the decentralized cloud.
+
+https://github.com/keleffew/decentralized-diffusion/blob/main/Img2Img_Stable_Diffusion_on_Decentralized_Cloud.ipynb
